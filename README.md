@@ -1,1 +1,1 @@
-# Mobile-Responsive-Page-
+# Responsive-Page-
